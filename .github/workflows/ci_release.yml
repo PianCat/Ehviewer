@@ -1,4 +1,4 @@
-name: Releases
+name: Ci_Releases
 
 on:
   push:
